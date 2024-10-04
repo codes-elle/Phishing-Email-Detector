@@ -1,0 +1,6 @@
+Use Sandbox?
+
+2. What is tokenize and how do I tokenize the emails using an NLP library
+3. Feature extraction - what is Bag of Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF)
+4. Which ML algorithm to choose. What is a training set and testing set. 
+  Training set - set of data to use when training the ML model. Testing set - set of data to use when evaluating the performance of the ML model.
